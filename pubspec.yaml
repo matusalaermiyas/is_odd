@@ -1,0 +1,20 @@
+name: is_odd
+description: "A Dart package to check if a given integer is odd"
+version: 1.0.0
+homepage: https://github.com/matusalaermiyas/is_odd.git
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  test: ^1.24.9
+
+flutter:
